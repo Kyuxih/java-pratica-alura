@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# IDE - VS Code
+.vscode/
+
+# IDE - Eclipse
+.settings/
+.project
+.classpath
+
+# OS files
+Thumbs.db
+.DS_Store
